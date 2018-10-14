@@ -35,8 +35,8 @@ db_password='123456'
 db='api_test'
 #邮件配置
 
-smtp_server='stmp.sina.com'  #smtp 服务器地址
-smtp_user='test_results@sina.com'
+smtp_server='stmp.163.com'  #smtp 服务器地址
+smtp_user='ivan-me@163.com'
 smtp_password='hanzhichao123'
 
 sender=smtp_user #邮件发送人

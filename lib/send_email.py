@@ -1,7 +1,7 @@
 #coding:utf-8
 
 import  smtplib
-from email.mime.text   import MIMEText #邮件正文
+from email.mime.text  import MIMEText #邮件正文
 from email.mime.multipart import  MIMEMultipart  #用来上传附件
 
 import sys
